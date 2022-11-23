@@ -1,4 +1,4 @@
-baseURL = 'https://elmar-wiese.github.io/'
+baseURL = 'http://elmar.wiemus.nl/'
 # languageCode = 'en-us'
 languageCode = 'nl'
 title = 'Portfolio | Elmar Wiese'

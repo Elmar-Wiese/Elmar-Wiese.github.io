@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elmar-wiese.github.io/categories/</loc>
+    <loc>http://elmar.wiemus.nl/categories/</loc>
   </url><url>
-    <loc>https://elmar-wiese.github.io/</loc>
+    <loc>http://elmar.wiemus.nl/</loc>
   </url><url>
-    <loc>https://elmar-wiese.github.io/tags/</loc>
+    <loc>http://elmar.wiemus.nl/tags/</loc>
   </url>
 </urlset>
