@@ -1,0 +1,6 @@
+baseURL = 'https://elmar-wiese.github.io/'
+# languageCode = 'en-us'
+languageCode = 'nl'
+title = 'Portfolio | Elmar Wiese'
+theme = "gokarna"
+
